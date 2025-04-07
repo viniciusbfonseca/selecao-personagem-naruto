@@ -41,3 +41,35 @@ main{
     align-items: center;
     justify-content: center;
 }
+
+.selecao-de-personagens .personagem-grande{
+    text-align: center;
+    width: 30%;
+    height: 70vh;
+    position: relative;
+}
+
+.selecao-de-personagens .personagem-grande img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.selecao-de-personagens .personagem-grande nome::before{
+    content: '';
+    height: 15px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+}
+
+.selecao-de-personagens .personagem-grande .nome h2{
+    color: var(--cor-padrao);
+    font-family: 'command', sans-serif;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    font-size: 27px;
+}
