@@ -73,3 +73,10 @@ main{
     width: 100%;
     font-size: 27px;
 }
+
+.selecao-de-personagens .lista-de-personagens{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    justify-content: center;
+}
