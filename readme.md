@@ -17,7 +17,7 @@ utilização de Divs para desenvolvimento de classes.
 
 utilização de ul : lista não ordenada juntamente ao li  para que fosse criada a listagem e seleção dos personagens. 
 
---
+---
 
 CSS : 
 
@@ -31,7 +31,7 @@ criação de variaveis para estilização de cores em todo, para que não seje n
 
 utilização do reset.css  para que fique de forma mais simples a estilização, tirando toda a configuração padrão feita pelo navegador. 
 
---
+---
 
 JavaScript :
 
