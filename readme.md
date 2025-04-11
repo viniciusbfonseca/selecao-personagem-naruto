@@ -47,4 +47,13 @@ utilização de seletores como: document.querySelector/ document.getElementById
 
 utilização de classList.add e remove para realizar a movimentação da seleção dos personagens. 
 
+# Demonstração do Projeto
 
+
+
+<img src="./src/imagens/naruto.gif" alt="descricao do projeto">
+
+## Deploy
+
+
+https://viniciusbfonseca.github.io/selecao-personagem-naruto/
